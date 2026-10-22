@@ -1,0 +1,6 @@
+- Welcome to World Travel Map!
+
+Here you can make a map of every country you vist
+with notes and thoughts on each.
+
+More functionality to come!!!
